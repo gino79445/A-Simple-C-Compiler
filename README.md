@@ -58,7 +58,7 @@ java -cp ./antlr-3.5.2-complete.jar:. myCompiler_test test1.c >> test1.ll
 
 
 
-## The functions the simple c interpreter provides
+## The functions the simple c compiler provides
 1. 使用int main 或 void main開頭都行  
 2. 宣告同時也能賦值以及宣告多個  
   ```C  
